@@ -90,6 +90,10 @@ int count = 0;
   PrintArray(CreateSecondArray(array));
 
 
+# Блок схъема решения задачи
+
+![Условие задачи](2.png)
+
 
 
 
